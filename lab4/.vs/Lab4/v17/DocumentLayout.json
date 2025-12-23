@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\grafika\\Lab4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9AE40D34-9ACE-402A-8405-1B550529AD90}|Lab4.csproj|d:\\grafika\\lab4\\pifagortree.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AE40D34-9ACE-402A-8405-1B550529AD90}|Lab4.csproj|solutionrelative:pifagortree.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PifagorTree.cs",
+              "DocumentMoniker": "D:\\grafika\\Lab4\\PifagorTree.cs",
+              "RelativeDocumentMoniker": "PifagorTree.cs",
+              "ToolTip": "D:\\grafika\\Lab4\\PifagorTree.cs",
+              "RelativeToolTip": "PifagorTree.cs",
+              "ViewState": "AgIAAEoAAAAAAAAAAAAgwFoAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-23T22:45:07.717Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

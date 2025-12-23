@@ -1,0 +1,10 @@
+D:\grafika\Lab4\bin\Debug\Lab4.exe.config
+D:\grafika\Lab4\bin\Debug\Lab4.exe
+D:\grafika\Lab4\bin\Debug\Lab4.pdb
+D:\grafika\Lab4\obj\Debug\Lab4.csproj.AssemblyReference.cache
+D:\grafika\Lab4\obj\Debug\Lab4.Properties.Resources.resources
+D:\grafika\Lab4\obj\Debug\Lab4.csproj.GenerateResource.cache
+D:\grafika\Lab4\obj\Debug\Lab4.csproj.CoreCompileInputs.cache
+D:\grafika\Lab4\obj\Debug\Lab4.exe
+D:\grafika\Lab4\obj\Debug\Lab4.pdb
+D:\grafika\Lab4\obj\Debug\Lab4.exe.config

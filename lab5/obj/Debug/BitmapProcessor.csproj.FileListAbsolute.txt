@@ -1,0 +1,9 @@
+D:\grafika\BitmapProcessor\bin\Debug\BitmapProcessor.exe.config
+D:\grafika\BitmapProcessor\bin\Debug\BitmapProcessor.exe
+D:\grafika\BitmapProcessor\bin\Debug\BitmapProcessor.pdb
+D:\grafika\BitmapProcessor\obj\Debug\BitmapProcessor.csproj.AssemblyReference.cache
+D:\grafika\BitmapProcessor\obj\Debug\BitmapProcessor.Properties.Resources.resources
+D:\grafika\BitmapProcessor\obj\Debug\BitmapProcessor.csproj.GenerateResource.cache
+D:\grafika\BitmapProcessor\obj\Debug\BitmapProcessor.csproj.CoreCompileInputs.cache
+D:\grafika\BitmapProcessor\obj\Debug\BitmapProcessor.exe
+D:\grafika\BitmapProcessor\obj\Debug\BitmapProcessor.pdb

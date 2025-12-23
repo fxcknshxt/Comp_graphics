@@ -1,0 +1,10 @@
+D:\grafika\Lab3\obj\Debug\Lab3.csproj.AssemblyReference.cache
+D:\grafika\Lab3\obj\Debug\Lab3.Properties.Resources.resources
+D:\grafika\Lab3\obj\Debug\Lab3.csproj.GenerateResource.cache
+D:\grafika\Lab3\obj\Debug\Lab3.csproj.CoreCompileInputs.cache
+D:\grafika\Lab3\bin\Debug\Lab3.exe.config
+D:\grafika\Lab3\bin\Debug\Lab3.exe
+D:\grafika\Lab3\bin\Debug\Lab3.pdb
+D:\grafika\Lab3\obj\Debug\Lab3.Form1.resources
+D:\grafika\Lab3\obj\Debug\Lab3.exe
+D:\grafika\Lab3\obj\Debug\Lab3.pdb

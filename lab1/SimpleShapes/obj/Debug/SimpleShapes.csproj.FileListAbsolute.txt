@@ -1,0 +1,9 @@
+D:\grafika\Lab1\SimpleShapes\bin\Debug\SimpleShapes.exe.config
+D:\grafika\Lab1\SimpleShapes\bin\Debug\SimpleShapes.exe
+D:\grafika\Lab1\SimpleShapes\bin\Debug\SimpleShapes.pdb
+D:\grafika\Lab1\SimpleShapes\obj\Debug\SimpleShapes.csproj.AssemblyReference.cache
+D:\grafika\Lab1\SimpleShapes\obj\Debug\SimpleShapes.Properties.Resources.resources
+D:\grafika\Lab1\SimpleShapes\obj\Debug\SimpleShapes.csproj.GenerateResource.cache
+D:\grafika\Lab1\SimpleShapes\obj\Debug\SimpleShapes.csproj.CoreCompileInputs.cache
+D:\grafika\Lab1\SimpleShapes\obj\Debug\SimpleShapes.exe
+D:\grafika\Lab1\SimpleShapes\obj\Debug\SimpleShapes.pdb

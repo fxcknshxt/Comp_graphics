@@ -1,0 +1,12 @@
+D:\grafika\Lab2\bin\Debug\Lab2.exe.config
+D:\grafika\Lab2\bin\Debug\Lab2.exe
+D:\grafika\Lab2\bin\Debug\Lab2.pdb
+D:\grafika\Lab2\obj\Debug\Lab2.csproj.AssemblyReference.cache
+D:\grafika\Lab2\obj\Debug\Lab2.csproj.CoreCompileInputs.cache
+D:\grafika\Lab2\obj\Debug\Lab2.exe
+D:\grafika\Lab2\obj\Debug\Lab2.pdb
+D:\grafika\Lab2\bin\Debug\OpenTK.Compatibility.dll
+D:\grafika\Lab2\bin\Debug\OpenTK.dll
+D:\grafika\Lab2\bin\Debug\OpenTK.GLControl.dll
+D:\grafika\Lab2\obj\Debug\Lab2.exe.config
+D:\grafika\Lab2\obj\Debug\Lab2.csproj.Up2Date
